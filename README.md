@@ -1,2 +1,1 @@
-# Online-Car-Rental-System
-My website is a portal for online car rentals
+This is for tutorial purpose
